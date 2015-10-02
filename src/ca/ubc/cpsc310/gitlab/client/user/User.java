@@ -9,6 +9,7 @@ import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
 
 @SuppressWarnings("unchecked")
 public class User implements IUser {
+	//asadhgbovdishgf
 
 	/**
 	 * 
